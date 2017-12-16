@@ -6,3 +6,7 @@ function player() {
   var komap = "スプラやるひと";
   Logger.log(komap);
 }
+function helper() {
+  var araki = "スプラ助っ人";
+  Logger.log(araki);
+}
